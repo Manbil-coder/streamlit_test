@@ -8,7 +8,7 @@ st.title('Selamat datang')
 st.write('Selamat datang ke aplikasi streamlit saya') 
 
 # Create a text input 
-widgetuser_input = st.text_input('Enter a custom message:', 'Hello, Streamlit!') 
+widgetuser_input = st.text_input('Masukkan custom mesej:', 'Hello, Streamlit!') 
 
 # Display the customized message 
 st.write('Customized Message:', widgetuser_input)
