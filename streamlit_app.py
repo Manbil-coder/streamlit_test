@@ -5,7 +5,7 @@ import requests
 st.title('Selamat datang') 
 
 # Add a welcome message 
-st.write('Selamat datang ke aplikasi streamlit saya') 
+st.write('Selamat datang ke aplikasi streamlit siuuuuuuuuu) 
 
 # Create a text input 
 widgetuser_input = st.text_input('Masukkan custom mesej:', 'Hello, Streamlit!') 
